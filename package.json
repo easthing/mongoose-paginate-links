@@ -6,6 +6,6 @@
   "author": "<easthing@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mongoose-paginate-v2": "^1.0.18"
+    "mongoose-paginate-v3": "^1.0.18"
   }
 }

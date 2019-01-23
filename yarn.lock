@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-mongoose-paginate-v2@^1.0.18:
+mongoose-paginate-v3@^1.0.18:
   version "1.0.18"
-  resolved "https://registry.yarnpkg.com/mongoose-paginate-v2/-/mongoose-paginate-v2-1.0.18.tgz#faabb1a90fada336dbbb4deefd7c46f4e28513f8"
+  resolved "https://registry.yarnpkg.com/mongoose-paginate-v3/-/mongoose-paginate-v3-1.0.18.tgz#1e2aba2fbff04f085d9e47ef7069510e0d57ea08"

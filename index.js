@@ -1,6 +1,5 @@
 const querystring = require('querystring');
-const paginate = require('mongoose-paginate-v2');
-
+const paginate = require('mongoose-paginate-v3');
 
 module.exports = function paginateLinks(schema) {
   schema.statics.paginate = async function() {
